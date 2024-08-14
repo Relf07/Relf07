@@ -1,4 +1,4 @@
-https://github-readme-stats.vercel.app/api?username={relf07}&theme=blue-green
+https://github-readme-stats.vercel.app/api?username=Relf07&theme=blue-green
 
 ## My Techs
 <div style="display: inline_block"><br>
